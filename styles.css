@@ -1,0 +1,12 @@
+h2{
+  color: white;
+    text-shadow: 2px 2px #ff0000;
+}
+
+h1 {
+  color: gold;
+    text-shadow: 2px 2px #ff0000;
+}
+body {
+  background-color: rgb(255, 204, 204);
+}
